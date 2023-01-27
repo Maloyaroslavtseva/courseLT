@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\edwpo\courseLT\Scripts\UC5_flightSelection
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ec:\users\edwpo\courselt\scripts\uc5_flightselection\\logfile.log
+c:\users\edwpo\courselt\scripts\uc5_flightselection\\combined_UC5_flightSelection.c
+c:\users\edwpo\courselt\scripts\uc5_flightselection\\pre_cci.c

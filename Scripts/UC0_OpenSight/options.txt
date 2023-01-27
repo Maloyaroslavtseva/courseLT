@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\edwpo\courseLT\Scripts\UC0_OpenSight
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ec:\users\edwpo\courselt\scripts\uc0_opensight\\logfile.log
+c:\users\edwpo\courselt\scripts\uc0_opensight\\combined_UC0_OpenSight.c
+c:\users\edwpo\courselt\scripts\uc0_opensight\\pre_cci.c

@@ -1,0 +1,99 @@
+[
+    {
+        "actionName": "Action",
+        "steps": [
+            {
+                "stepId": "STEP345",
+                "stepName": "Url: WebTours",
+                "infFile": "t1.inf",
+                "time": 1674753163381
+            },
+            {
+                "stepId": "STEP346",
+                "stepName": "Url: header.html",
+                "infFile": "t2.inf",
+                "time": 1674753163573
+            },
+            {
+                "stepId": "STEP347",
+                "stepName": "Url: welcome.pl",
+                "infFile": "t3.inf",
+                "time": 1674753163861
+            },
+            {
+                "stepId": "STEP348",
+                "stepName": "Url: welcome.pl",
+                "infFile": "t4.inf",
+                "time": 1674753164269
+            },
+            {
+                "stepId": "STEP349",
+                "stepName": "Submit Form: login.pl",
+                "infFile": "t5.inf",
+                "time": 1674753164682
+            },
+            {
+                "stepId": "STEP350",
+                "stepName": "Image: Itinerary Button",
+                "infFile": "t6.inf",
+                "time": 1674753165140
+            },
+            {
+                "stepId": "STEP351",
+                "stepName": "Submit Form: itinerary.pl",
+                "infFile": "t7.inf",
+                "time": 1674753165500
+            },
+            {
+                "stepId": "STEP352",
+                "stepName": "Image: SignOff Button",
+                "infFile": "t8.inf",
+                "time": 1674753165940
+            }
+        ],
+        "transactions": [
+            {
+                "transactionName": "open_sight",
+                "rawStartTime": 1674753162911,
+                "rawEndTime": 1674753163864,
+                "thinkTime": 0.0,
+                "wastedTime": 0.43239760398864748
+            },
+            {
+                "transactionName": "login",
+                "rawStartTime": 1674753164286,
+                "rawEndTime": 1674753164693,
+                "thinkTime": 0.0,
+                "wastedTime": 0.1480710506439209
+            },
+            {
+                "transactionName": "Itinerary",
+                "rawStartTime": 1674753164708,
+                "rawEndTime": 1674753165146,
+                "thinkTime": 0.0,
+                "wastedTime": 0.14353680610656739
+            },
+            {
+                "transactionName": "delete",
+                "rawStartTime": 1674753165209,
+                "rawEndTime": 1674753165521,
+                "thinkTime": 0.0,
+                "wastedTime": 0.14530420303344727
+            },
+            {
+                "transactionName": "logout",
+                "rawStartTime": 1674753165552,
+                "rawEndTime": 1674753165943,
+                "thinkTime": 0.0,
+                "wastedTime": 0.14307689666748048
+            },
+            {
+                "transactionName": "UC3_DeleteDooking",
+                "rawStartTime": 1674753162882,
+                "rawEndTime": 1674753165959,
+                "thinkTime": 0.0,
+                "wastedTime": 1.1493957042694092
+            }
+        ]
+    }
+]

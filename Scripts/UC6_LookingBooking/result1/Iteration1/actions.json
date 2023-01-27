@@ -1,0 +1,86 @@
+[
+    {
+        "actionName": "Action",
+        "steps": [
+            {
+                "stepId": "STEP1",
+                "stepName": "Url: WebTours",
+                "infFile": "t1.inf",
+                "time": 1674335111689
+            },
+            {
+                "stepId": "STEP2",
+                "stepName": "Url: header.html",
+                "infFile": "t2.inf",
+                "time": 1674335111741
+            },
+            {
+                "stepId": "STEP3",
+                "stepName": "Url: welcome.pl",
+                "infFile": "t3.inf",
+                "time": 1674335111899
+            },
+            {
+                "stepId": "STEP4",
+                "stepName": "Url: welcome.pl",
+                "infFile": "t4.inf",
+                "time": 1674335112150
+            },
+            {
+                "stepId": "STEP5",
+                "stepName": "Submit Form: login.pl",
+                "infFile": "t5.inf",
+                "time": 1674335117482
+            },
+            {
+                "stepId": "STEP6",
+                "stepName": "Image: Itinerary Button",
+                "infFile": "t6.inf",
+                "time": 1674335122795
+            },
+            {
+                "stepId": "STEP7",
+                "stepName": "Image: SignOff Button",
+                "infFile": "t7.inf",
+                "time": 1674335126102
+            }
+        ],
+        "transactions": [
+            {
+                "transactionName": "open_sight",
+                "rawStartTime": 1674335111314,
+                "rawEndTime": 1674335111901,
+                "thinkTime": 0.0,
+                "wastedTime": 0.10633063316345215
+            },
+            {
+                "transactionName": "login",
+                "rawStartTime": 1674335112155,
+                "rawEndTime": 1674335117498,
+                "thinkTime": 5.010434,
+                "wastedTime": 0.008855581283569336
+            },
+            {
+                "transactionName": "itinerary",
+                "rawStartTime": 1674335117514,
+                "rawEndTime": 1674335122810,
+                "thinkTime": 5.010645,
+                "wastedTime": 0.007317543029785156
+            },
+            {
+                "transactionName": "logout",
+                "rawStartTime": 1674335122843,
+                "rawEndTime": 1674335126105,
+                "thinkTime": 3.007985,
+                "wastedTime": 0.005311489105224609
+            },
+            {
+                "transactionName": "UC6_LookingBooking",
+                "rawStartTime": 1674335111298,
+                "rawEndTime": 1674335126121,
+                "thinkTime": 13.029064,
+                "wastedTime": 0.13296031951904298
+            }
+        ]
+    }
+]

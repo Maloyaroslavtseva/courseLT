@@ -1,0 +1,29 @@
+[
+    {
+        "actionName": "Action",
+        "steps": [
+            {
+                "stepId": "STEP1",
+                "stepName": "Url: welcome.pl",
+                "infFile": "t1.inf",
+                "time": 1674335285181
+            }
+        ],
+        "transactions": [
+            {
+                "transactionName": "open_sight",
+                "rawStartTime": 1674335284813,
+                "rawEndTime": 1674335285196,
+                "thinkTime": 0.0,
+                "wastedTime": 0.09586143493652344
+            },
+            {
+                "transactionName": "UC0_OpenSitght",
+                "rawStartTime": 1674335284797,
+                "rawEndTime": 1674335285212,
+                "thinkTime": 0.0,
+                "wastedTime": 0.09586143493652344
+            }
+        ]
+    }
+]
