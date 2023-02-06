@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3a28ed4b-3499-4fb5-aa31-1d6d9664f4de" name="Changes" comment="Удален дистрибутив">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/courseLT.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]/OUTPUT.MDB" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]/Result0_Graph0.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]/Result0_Graph1.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]/Result0_Graph2.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]/Result0_Graph3.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]/Result0_Graph4.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]/debuggtest.lrs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]/shelved.patch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]1/OUTPUT.MDB" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]1/Result0_Graph0.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]1/Result0_Graph1.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]1/Result0_Graph2.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]1/Result0_Graph3.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]1/Result0_Graph4.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]1/debuggtest.lrs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]1/shelved.patch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Changes_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Changes_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/Action.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/Bookmarks.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/Breakpoints.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/CompilerLogMetadata.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/OpenSight.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/OutputColoringDatabase.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/ReplaySummaryReport.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/ScriptUploadMetadata.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/ThumbnailsCache.tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/TransactionsData.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/UC3_UserRegistration.prm.bak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/UserTasks.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/UtilCopyUsers.prm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/UtilCopyUsers.prm.bak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/UtilCopyUsers.usr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/CodeGenerationLog.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/HostNames.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/IPAddress.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/RecordingLog.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/action.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/actions.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/cross_correlation_parameters.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/events/EventFileManagerInfo.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/events/params.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/events/recorderEvents1.lrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/events1/TempRecorderEvents.lrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/events2/TempRecorderEvents.lrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/events3/TempRecorderEvents.lrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/globals.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/http.db/resp_003_002.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/http.db/resp_010_001.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/http.db/resp_011_001.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/http.db/resp_013_003.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/http.db/resp_016_001.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/http.db/resp_018_001.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/http.db/resp_019_001.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/http.db/resp_020_001.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/http.db/resp_023_001.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/http.db/resp_029_001.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/http.db/resp_029_002.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/http.db/resp_036_001.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/http.db/resp_036_002.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/http.db/resp_036_003.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/http.db/resp_037_001.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/http.db/resp_037_002.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/http.db/resp_039_001.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/http.db/rqst_018_001.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/interfaces.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/lrc_codegen_script_options.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/lrc_codegensettings.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/lrc_debug_info_11236.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/lrc_debug_info_5508.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/lrc_debug_info_8696.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/lrc_debug_info_8948.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/lrc_debug_list_11236.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/lrc_debug_list_5508.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/lrc_debug_list_8696.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/lrc_debug_list_8948.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/lrc_debug_trace_11236.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/lrc_debug_trace_5508.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/lrc_debug_trace_8696.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/lrc_debug_trace_8948.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/lrc_rec_script_options.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/lrc_recregistry.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/lrc_recsettings.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/lrc_script_settings.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/port_mapping.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/processes_dump_start_record.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/processes_dump_stop_record.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/record_summary_settings.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/recordsets.inf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/snapshot_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/snapshot_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/snapshot_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/snapshot_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/snapshot_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/t1.inf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/t2.inf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/t3.inf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/t4.inf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/t5.inf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/t6.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/t6.inf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/t6.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/t6_RequestHeader.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/t6_ResponseHeader.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/t6f0.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/t7.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/t7.inf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/t7.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/t7_RequestHeader.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/t7_ResponseHeader.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/t7_threatListUpdates_fetch.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/t8.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/t8.inf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/t8_RequestBody.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/t8_RequestHeader.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/t8_ResponseHeader.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/user.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/vugen_modules_dump.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/vuser_end.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/vuser_init.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/web_persist_settings.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/web_proxy_settings.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/web_recording_summary.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/default.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/default.usp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/globals.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/logfile.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/mdrv.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/mdrv_cmd.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/options.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/output.bak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/output.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/result1/GeneralInfo.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/result1/Icons/1.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/result1/Icons/2.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/result1/Icons/3.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/result1/InstallNewReport.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/result1/Iteration1/actions.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/result1/Iteration1/end_actions.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/result1/Iteration1/init_actions.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/result1/Iteration1/iterationdir" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/result1/Iteration1/iterationdir.bak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/result1/Mediainfo.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/result1/Results.qtp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/result1/Results.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/vuser_end.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/vuser_init.c" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2JXwBRrdVlMSMK9asORffmyHlPK" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/edwpo/courseLT&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3a28ed4b-3499-4fb5-aa31-1d6d9664f4de" name="Changes" comment="" />
+      <created>1672237601333</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1672237601333</updated>
+    </task>
+    <task id="LOCAL-00001" summary="перенесены файлы параметров в отдельный подкаталог parameters">
+      <created>1672330791153</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1672330791153</updated>
+    </task>
+    <task id="LOCAL-00002" summary="папка с файлами параметров перенесена на уровень выше">
+      <created>1672752427286</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1672752427286</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Случайный выбор рейса из списка&#10;Отрабоька скрипта по новому алгоритму выбора рейса">
+      <created>1672758949390</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1672758949390</updated>
+    </task>
+    <task id="LOCAL-00004" summary="включено условие чтобы город отправления не совпадал с городом прибытия&#10;отработка скрипта по новому алгоритму">
+      <created>1672760589467</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1672760589467</updated>
+    </task>
+    <task id="LOCAL-00005" summary="добавлен скрипт регистрации пользователей&#10;и скрипт логин/логаут">
+      <created>1673196858819</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1673196858819</updated>
+    </task>
+    <task id="LOCAL-00006" summary="добавлен файл .gitignore &#10;и скрипт OpenSight">
+      <created>1673202397077</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1673202397077</updated>
+    </task>
+    <task id="LOCAL-00007" summary="добавлен скрипт поиск рейса">
+      <created>1673204611213</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1673204611213</updated>
+    </task>
+    <task id="LOCAL-00008" summary=" в скрипте покупки билета &#10;переименовано название параметра пароля &#10;сделаны проверки не по заголовкам страниц">
+      <created>1673206560936</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1673206560936</updated>
+    </task>
+    <task id="LOCAL-00009" summary="написан скрипт выбора рейса">
+      <created>1673207175003</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1673207175003</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Скрипт покупки билета:&#10;обратный рейс&#10;количество пассажиров от 1 до 3&#10; изменены проверки правильности попадания на страницы сайта&#10;дата отправления со смещением от 0 до 29 дней">
+      <created>1673273868082</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1673273868082</updated>
+    </task>
+    <task id="LOCAL-00011" summary="добавлена общая транзакция к скриптам">
+      <created>1673609826569</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1673609826569</updated>
+    </task>
+    <task id="LOCAL-00012" summary="добавлен скрипт Удаление брони">
+      <created>1673615987291</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1673615987291</updated>
+    </task>
+    <task id="LOCAL-00013" summary="UC0_OpenSight Вставлена главнвя транзвкция&#10;UC3_DeleteBooking исправлена  проверка брони">
+      <created>1673970615596</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1673970615596</updated>
+    </task>
+    <task id="LOCAL-00014" summary="UC2_BuyTicket, UC5_flightSelection исправлена опечатка">
+      <created>1673971274637</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1673971274637</updated>
+    </task>
+    <task id="LOCAL-00015" summary="UC3_DeleteBooking вставлена роверка удаления брони">
+      <created>1673981901688</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1673981901688</updated>
+    </task>
+    <task id="LOCAL-00016" summary="добавлен скрипт UC7_UsersRegistration">
+      <created>1673986613841</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1673986613841</updated>
+    </task>
+    <task id="LOCAL-00017" summary="скрипты перенесены в каталог Scripts&#10;в скрипты добавлены недостающие транзакции">
+      <created>1674334754538</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1674334754538</updated>
+    </task>
+    <task id="LOCAL-00018" summary="исправлена ошибка в скрипте Удаления брони">
+      <created>1674495782236</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1674495782236</updated>
+    </task>
+    <task id="LOCAL-00019" summary="отладочный сценарий и результат">
+      <created>1674503101940</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1674503101940</updated>
+    </task>
+    <task id="LOCAL-00020" summary="К скриптам добавлены недостающие транзакции, добавлен расчет сложного профиля, поправлен отладочный сценарий и его результат">
+      <created>1674828830193</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1674828830193</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Удален дистрибутив">
+      <created>1674830226877</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1674830226877</updated>
+    </task>
+    <task id="LOCAL-00022" summary="скрипты, отладочный сценарий, результат, расчет сложного профиля">
+      <created>1674834930680</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1674834930680</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.cfg" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="перенесены файлы параметров в отдельный подкаталог parameters" />
+    <MESSAGE value="папка с файлами параметров перенесена на уровень выше" />
+    <MESSAGE value="Случайный выбор рейса из списка&#10;Отрабоька скрипта по новому алгоритму выбора рейса" />
+    <MESSAGE value="включено условие чтобы город отправления не совпадал с городом прибытия&#10;отработка скрипта по новому алгоритму" />
+    <MESSAGE value="добавлен скрипт регистрации пользователей&#10;и скрипт логин/логаут" />
+    <MESSAGE value="добавлен файл .gitignore &#10;и скрипт OpenSight" />
+    <MESSAGE value="добавлен скрипт поиск рейса" />
+    <MESSAGE value=" в скрипте покупки билета &#10;переименовано название параметра пароля &#10;сделаны проверки не по заголовкам страниц" />
+    <MESSAGE value="написан скрипт выбора рейса" />
+    <MESSAGE value="Скрипт покупки билета:&#10;обратный рейс&#10;количество пассажиров от 1 до 3&#10; изменены проверки правильности попадания на страницы сайта&#10;дата отправления со смещением от 0 до 29 дней" />
+    <MESSAGE value="добавлена общая транзакция к скриптам" />
+    <MESSAGE value="добавлен скрипт Удаление брони" />
+    <MESSAGE value="UC0_OpenSight Вставлена главнвя транзвкция&#10;UC3_DeleteBooking исправлена  проверка брони" />
+    <MESSAGE value="UC2_BuyTicket, UC5_flightSelection исправлена опечатка" />
+    <MESSAGE value="UC3_DeleteBooking вставлена роверка удаления брони" />
+    <MESSAGE value="добавлен скрипт UC7_UsersRegistration" />
+    <MESSAGE value="скрипты перенесены в каталог Scripts&#10;в скрипты добавлены недостающие транзакции" />
+    <MESSAGE value="исправлена ошибка в скрипте Удаления брони" />
+    <MESSAGE value="отладочный сценарий и результат" />
+    <MESSAGE value="К скриптам добавлены недостающие транзакции, добавлен расчет сложного профиля, поправлен отладочный сценарий и его результат" />
+    <MESSAGE value="Удален дистрибутив" />
+    <MESSAGE value="скрипты, отладочный сценарий, результат, расчет сложного профиля" />
+    <option name="LAST_COMMIT_MESSAGE" value="скрипты, отладочный сценарий, результат, расчет сложного профиля" />
+  </component>
+</project>
