@@ -1,12 +1,12 @@
 ﻿[Workspace]
 SessionStartTime=0
-SessionEndTime=6712
+SessionEndTime=7314
 VerNo=13
 IsSummaryData=0
 TimeFormat=0
 SesLang=RUS
 ABuild=0
-DataBaseName=resl38979170DB
+DataBaseName=resl40573231DB
 DBType=1
 CurrServer=DESKTOP-SRKGRR4
 CurrUser=sa
@@ -43,10 +43,10 @@ ResultTDPath=
 NumFilters=0
 ScenarioTimeZone=-10800
 DaylightSavingSecsAddition=0
-ScenarioStartTime=1675624308
-ScenarioEndTime=1675631020
+ScenarioStartTime=1675705582
+ScenarioEndTime=1675712896
 ResInSD=0
-WebGran=5
+WebGran=60
 FilterEdge=0
 FSartTime=0
 FEndTime=0
@@ -58,8 +58,8 @@ Scenario Type=Manual
 Schedule Name=Schedule 1
 Mode=Scenario Scheduling
 Load Behavior=Initialize all Vusers simultaneously
-Scenario Duration=Start 10 Vusers: 1 every 00:00:15 (HH:MM:SS); Run for 00:20:00 (HH:MM:SS); Start 10 Vusers: 1 every 00:00:15 (HH:MM:SS); Run for 00:20:00 (HH:MM:SS); Start 10 Vusers: 1 every 00:00:15 (HH:MM:SS); Run for 00:20:00 (HH:MM:SS); Start 10 Vusers: 1 every 00:00:15 (HH:MM:SS); Run for 00:20:00 (HH:MM:SS); Start 10 Vusers: 1 every 00:00:15 (HH:MM:SS); Run for 00:20:00 (HH:MM:SS); Stop all Vusers simultaneously
-NumGraphs=7
+Scenario Duration=Start 10 Vusers: 1 every 00:00:15 (HH:MM:SS); Run for 00:22:00 (HH:MM:SS); Start 10 Vusers: 1 every 00:00:15 (HH:MM:SS); Run for 00:22:00 (HH:MM:SS); Start 10 Vusers: 1 every 00:00:15 (HH:MM:SS); Run for 00:22:00 (HH:MM:SS); Start 10 Vusers: 1 every 00:00:15 (HH:MM:SS); Run for 00:22:00 (HH:MM:SS); Start 10 Vusers: 1 every 00:00:15 (HH:MM:SS); Run for 00:22:00 (HH:MM:SS); Stop all Vusers simultaneously
+NumGraphs=6
 
 [DimensionFunctions]
 DimeFuncCount=0
