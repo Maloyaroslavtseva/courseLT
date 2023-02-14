@@ -1,163 +1,173 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3a28ed4b-3499-4fb5-aa31-1d6d9664f4de" name="Changes" comment="Удален дистрибутив">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/courseLT.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]/OUTPUT.MDB" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]/Result0_Graph0.cfg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]/Result0_Graph1.cfg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]/Result0_Graph2.cfg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]/Result0_Graph3.cfg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]/Result0_Graph4.cfg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]/debuggtest.lrs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]/shelved.patch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]1/OUTPUT.MDB" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]1/Result0_Graph0.cfg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]1/Result0_Graph1.cfg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]1/Result0_Graph2.cfg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]1/Result0_Graph3.cfg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]1/Result0_Graph4.cfg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]1/debuggtest.lrs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]1/shelved.patch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Changes_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Changes_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/Action.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/Bookmarks.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/Breakpoints.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/CompilerLogMetadata.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/OpenSight.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/OutputColoringDatabase.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/ReplaySummaryReport.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/ScriptUploadMetadata.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/ThumbnailsCache.tmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/TransactionsData.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/UC3_UserRegistration.prm.bak" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/UserTasks.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/UtilCopyUsers.prm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/UtilCopyUsers.prm.bak" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/UtilCopyUsers.usr" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/CodeGenerationLog.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/HostNames.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/IPAddress.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/RecordingLog.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/action.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/actions.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/cross_correlation_parameters.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/events/EventFileManagerInfo.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/events/params.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/events/recorderEvents1.lrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/events1/TempRecorderEvents.lrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/events2/TempRecorderEvents.lrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/events3/TempRecorderEvents.lrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/globals.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/http.db/resp_003_002.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/http.db/resp_010_001.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/http.db/resp_011_001.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/http.db/resp_013_003.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/http.db/resp_016_001.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/http.db/resp_018_001.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/http.db/resp_019_001.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/http.db/resp_020_001.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/http.db/resp_023_001.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/http.db/resp_029_001.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/http.db/resp_029_002.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/http.db/resp_036_001.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/http.db/resp_036_002.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/http.db/resp_036_003.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/http.db/resp_037_001.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/http.db/resp_037_002.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/http.db/resp_039_001.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/http.db/rqst_018_001.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/interfaces.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/lrc_codegen_script_options.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/lrc_codegensettings.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/lrc_debug_info_11236.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/lrc_debug_info_5508.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/lrc_debug_info_8696.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/lrc_debug_info_8948.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/lrc_debug_list_11236.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/lrc_debug_list_5508.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/lrc_debug_list_8696.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/lrc_debug_list_8948.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/lrc_debug_trace_11236.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/lrc_debug_trace_5508.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/lrc_debug_trace_8696.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/lrc_debug_trace_8948.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/lrc_rec_script_options.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/lrc_recregistry.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/lrc_recsettings.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/lrc_script_settings.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/port_mapping.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/processes_dump_start_record.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/processes_dump_stop_record.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/record_summary_settings.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/recordsets.inf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/snapshot_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/snapshot_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/snapshot_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/snapshot_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/snapshot_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/t1.inf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/t2.inf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/t3.inf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/t4.inf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/t5.inf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/t6.htm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/t6.inf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/t6.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/t6_RequestHeader.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/t6_ResponseHeader.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/t6f0.htm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/t7.htm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/t7.inf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/t7.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/t7_RequestHeader.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/t7_ResponseHeader.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/t7_threatListUpdates_fetch.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/t8.htm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/t8.inf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/t8_RequestBody.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/t8_RequestHeader.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/t8_ResponseHeader.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/user.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/vugen_modules_dump.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/vuser_end.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/vuser_init.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/web_persist_settings.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/web_proxy_settings.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/data/web_recording_summary.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/default.cfg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/default.usp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/globals.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/logfile.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/mdrv.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/mdrv_cmd.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/options.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/output.bak" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/output.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/result1/GeneralInfo.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/result1/Icons/1.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/result1/Icons/2.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/result1/Icons/3.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/result1/InstallNewReport.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/result1/Iteration1/actions.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/result1/Iteration1/end_actions.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/result1/Iteration1/init_actions.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/result1/Iteration1/iterationdir" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/result1/Iteration1/iterationdir.bak" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/result1/Mediainfo.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/result1/Results.qtp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/result1/Results.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/vuser_end.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Скрипты/UtilCopyUsers/vuser_init.c" afterDir="false" />
+    <list default="true" id="3a28ed4b-3499-4fb5-aa31-1d6d9664f4de" name="Changes" comment="тесты поиска максимума и надежности, и их результаты">
+      <change afterPath="$PROJECT_DIR$/Scenarios/reliability2.lrs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/AnalysisGeneral_Properties.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/AnalysisWord_Properties.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/CSScriptDict.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/DirsDef.def" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/ErrorsDataSupervisor0.def" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/ErrorsDataSupervisor0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/GraphColoring.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/Icons_Calendar.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/Icons_No_SLA.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/Icons_Project.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/Icons_SLA.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/Icons_Test.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/Icons_Time.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/JSFunctions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/Metric-Regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/OUTPUT.MDB" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/Properties.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/Result0_Graph0.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/Result0_Graph0.def" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/Result0_Graph0.grid" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/Result0_Graph1.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/Result0_Graph1.def" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/Result0_Graph1.grid" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/Result0_Graph10.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/Result0_Graph10.def" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/Result0_Graph10.grid" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/Result0_Graph11.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/Result0_Graph11.def" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/Result0_Graph11.grid" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/Result0_Graph11_BaseGraph0.def" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/Result0_Graph11_BaseGraph1.def" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/Result0_Graph12.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/Result0_Graph12.def" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/Result0_Graph12.grid" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/Result0_Graph12_BaseGraph0.def" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/Result0_Graph12_BaseGraph1.def" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/Result0_Graph13.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/Result0_Graph13.def" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/Result0_Graph13.grid" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/Result0_Graph13_BaseGraph0.def" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/Result0_Graph13_BaseGraph1.def" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/Result0_Graph2.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/Result0_Graph2.def" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/Result0_Graph2.grid" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/Result0_Graph3.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/Result0_Graph3.def" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/Result0_Graph3.grid" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/Result0_Graph4.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/Result0_Graph4.def" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/Result0_Graph4.grid" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/Result0_Graph5.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/Result0_Graph5.def" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/Result0_Graph5.grid" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/Result0_Graph6.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/Result0_Graph6.def" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/Result0_Graph6.grid" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/Result0_Graph7.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/Result0_Graph7.def" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/Result0_Graph7.grid" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/Result0_Graph8.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/Result0_Graph8.def" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/Result0_Graph8.grid" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/Result0_Graph9.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/Result0_Graph9.def" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/Result0_Graph9.grid" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/RunTimeSettings0/UC1_login_logout.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/RunTimeSettings0/UC1_login_logout.usp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/RunTimeSettings0/UC1_login_logout.usr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/RunTimeSettings0/UC2_BuyTicket.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/RunTimeSettings0/UC2_BuyTicket.usp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/RunTimeSettings0/UC2_BuyTicket.usr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/RunTimeSettings0/UC3_DeleteBooking.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/RunTimeSettings0/UC3_DeleteBooking.usp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/RunTimeSettings0/UC3_DeleteBooking.usr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/RunTimeSettings0/UC4_FlightSearch.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/RunTimeSettings0/UC4_FlightSearch.usp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/RunTimeSettings0/UC4_FlightSearch.usr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/RunTimeSettings0/UC6_LookingBooking.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/RunTimeSettings0/UC6_LookingBooking.usp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/RunTimeSettings0/UC6_LookingBooking.usr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/RunTimeSettings0/UC7_UsersRegistration.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/RunTimeSettings0/UC7_UsersRegistration.usp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/RunTimeSettings0/UC7_UsersRegistration.usr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/SLAJScript.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/SLARules0/SLAConfiguration.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/SLASupervisor0.def" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/SLASupervisor0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/Search.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/SpinTimeControl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/Status_Failed.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/Status_NoData.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/Status_Success.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/TreeOrder.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/adv_properties.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/analysis_summary_nav_in.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/dataTables.bootstrap4.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/dataTables.bootstrap4.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/datatables.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/datatables.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/dot_trans.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/down.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/down.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/highcharts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/ic_fail_bg.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/icon_filter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/icon_info.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/jquery-3.2.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/jquery.dataTables.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/led_error.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/led_no_data.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/led_ok.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/led_warning.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/left.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/reliability2.asc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/reliability2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/reliability2.lra" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/reliability2.mdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/reliability2.mtd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/reliability2_SAP_Rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/right.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/summary_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/summarypage.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/summarypage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/translation-engine.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/translation-nav.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/translation-resources-html_de.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/translation-resources-html_fr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/translation-resources-html_ja.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/translation-resources-html_ko.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/translation-resources-html_ru.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/translation-resources-html_zh_CN.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/translation-resources.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Результаты/RAW/reliability2/up.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Скрипты/UC1_Loginlogout.jmx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Скрипты/Users.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scenarios/searchmax.lrs" beforeDir="false" afterPath="$PROJECT_DIR$/Scenarios/searchmax.lrs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Результаты/RAW/debuggtest/debuggtest.html" beforeDir="false" afterPath="$PROJECT_DIR$/Результаты/RAW/debuggtest/debuggtest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Результаты/RAW/debuggtest/debuggtest.ldb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Результаты/RAW/debuggtest/debuggtest.mdb" beforeDir="false" afterPath="$PROJECT_DIR$/Результаты/RAW/debuggtest/debuggtest.mdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Результаты/RAW/reliability/reliability.html" beforeDir="false" afterPath="$PROJECT_DIR$/Результаты/RAW/reliability/reliability.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Результаты/RAW/reliability/reliability.mdb" beforeDir="false" afterPath="$PROJECT_DIR$/Результаты/RAW/reliability/reliability.mdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Результаты/RAW/searchmax/ErrorsDataSupervisor0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Результаты/RAW/searchmax/ErrorsDataSupervisor0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Результаты/RAW/searchmax/OUTPUT.MDB" beforeDir="false" afterPath="$PROJECT_DIR$/Результаты/RAW/searchmax/OUTPUT.MDB" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Результаты/RAW/searchmax/Result0_Graph0.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/Результаты/RAW/searchmax/Result0_Graph0.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Результаты/RAW/searchmax/Result0_Graph0.def" beforeDir="false" afterPath="$PROJECT_DIR$/Результаты/RAW/searchmax/Result0_Graph0.def" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Результаты/RAW/searchmax/Result0_Graph1.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/Результаты/RAW/searchmax/Result0_Graph1.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Результаты/RAW/searchmax/Result0_Graph1.def" beforeDir="false" afterPath="$PROJECT_DIR$/Результаты/RAW/searchmax/Result0_Graph1.def" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Результаты/RAW/searchmax/Result0_Graph2.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/Результаты/RAW/searchmax/Result0_Graph2.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Результаты/RAW/searchmax/Result0_Graph2.def" beforeDir="false" afterPath="$PROJECT_DIR$/Результаты/RAW/searchmax/Result0_Graph2.def" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Результаты/RAW/searchmax/Result0_Graph3.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/Результаты/RAW/searchmax/Result0_Graph3.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Результаты/RAW/searchmax/Result0_Graph3.def" beforeDir="false" afterPath="$PROJECT_DIR$/Результаты/RAW/searchmax/Result0_Graph3.def" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Результаты/RAW/searchmax/Result0_Graph4.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/Результаты/RAW/searchmax/Result0_Graph4.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Результаты/RAW/searchmax/Result0_Graph4.def" beforeDir="false" afterPath="$PROJECT_DIR$/Результаты/RAW/searchmax/Result0_Graph4.def" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Результаты/RAW/searchmax/Result0_Graph5.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/Результаты/RAW/searchmax/Result0_Graph5.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Результаты/RAW/searchmax/Result0_Graph5.def" beforeDir="false" afterPath="$PROJECT_DIR$/Результаты/RAW/searchmax/Result0_Graph5.def" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Результаты/RAW/searchmax/Result0_Graph5.grid" beforeDir="false" afterPath="$PROJECT_DIR$/Результаты/RAW/searchmax/Result0_Graph5.grid" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Результаты/RAW/searchmax/searchmax.asc" beforeDir="false" afterPath="$PROJECT_DIR$/Результаты/RAW/searchmax/searchmax.asc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Результаты/RAW/searchmax/searchmax.html" beforeDir="false" afterPath="$PROJECT_DIR$/Результаты/RAW/searchmax/searchmax.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Результаты/RAW/searchmax/searchmax.lra" beforeDir="false" afterPath="$PROJECT_DIR$/Результаты/RAW/searchmax/searchmax.lra" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Результаты/RAW/searchmax/searchmax.mdb" beforeDir="false" afterPath="$PROJECT_DIR$/Результаты/RAW/searchmax/searchmax.mdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Результаты/RAW/searchmax/searchmax.mtd" beforeDir="false" afterPath="$PROJECT_DIR$/Результаты/RAW/searchmax/searchmax.mtd" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -353,7 +363,21 @@
       <option name="project" value="LOCAL" />
       <updated>1674834930680</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="тесты поиска максимума и надежности, и их результаты">
+      <created>1675703524145</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1675703524145</updated>
+    </task>
+    <task id="LOCAL-00024" summary="тест поиска максимума со ступенямит в 22 мин. тест надежности на 36 пользователях">
+      <created>1675887919785</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1675887919785</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -395,6 +419,8 @@
     <MESSAGE value="К скриптам добавлены недостающие транзакции, добавлен расчет сложного профиля, поправлен отладочный сценарий и его результат" />
     <MESSAGE value="Удален дистрибутив" />
     <MESSAGE value="скрипты, отладочный сценарий, результат, расчет сложного профиля" />
-    <option name="LAST_COMMIT_MESSAGE" value="скрипты, отладочный сценарий, результат, расчет сложного профиля" />
+    <MESSAGE value="тесты поиска максимума и надежности, и их результаты" />
+    <MESSAGE value="тест поиска максимума со ступенямит в 22 мин. тест надежности на 36 пользователях" />
+    <option name="LAST_COMMIT_MESSAGE" value="тест поиска максимума со ступенямит в 22 мин. тест надежности на 36 пользователях" />
   </component>
 </project>

@@ -1,13 +1,13 @@
 ﻿[BasicInfo]
-Title=Average Transaction Response Time - Running Vusers
-TemplateName=
-ChartType=Overlay
-Description=
-HelpContext=0
-EventType=
+Title=Transaction Response Time (Percentile)
+TemplateName=percentile
+ChartType=Simple
+Description=Displays the percentage of transactions that were performed within a given time range. This graph helps you determine the percentage of transactions that meet the performance criteria defined for your system.
+HelpContext=509
+EventType=Transaction
 EventName=
-ChartGroup=
-NumGraphs=2
+ChartGroup=Transactions
+PerformanceClass=General
 CustomData=
 
 [TabSheet]
@@ -15,11 +15,9 @@ Visible=1
 ActivePage=0
 
 [MultiUIInfos]
-Count=2
+Count=1
 
 [UIInfo0]
-
-[UIInfo1]
 
 [MoreUiInfos]
 ShowPieMarks=1
@@ -31,45 +29,123 @@ ActionClearFilterEnabled=0
 ChartFile=C:\Users\edwpo\courseLT\Результаты\RAW\searchmax\Result0_Graph5.cfg
 View3D=0
 IntLegendVisible=0
-Chart3dPercent=10
+Chart3dPercent=1
 Pen_Style=0
 Pen_SmallDots=0
 Pen_Visible=1
 Pen_Width=1
 Pen_Color=0
+MainFactTableName=Event_meter
+DefaultDisplayType=Line
+UserGranularity=0
+RoundBarValues=0
+GraphDataCol1=
+TableName=T60291639T
+BasicTableName=BasicTransactionPercentile
+AbsoluteTime=0
+DisableFilter=0
+SetPieToPercent=0
+DescFromFID=0
+NumSelectStrings=0
+ProduceRealStatis=0
+CompleteMissingValuesWithZeroes=0
+CompleteMissingValues=0
+ForceCompleteValsOnArea=1
+IdsToStrs=1
+StdMonitor=0
+Percentile=1
+HiddenFunctions=
+NumBasicFilters=1
+NumAdditionalFilters=1
+NumRawDataFilters=0
+HiddenDimensions=
+BasicGroupBy=Transaction Name
+AdditionalGroupBy=
+HasGranularity=0
+YLeftAxisTitle=Transaction response time (seconds)
+YRightAxisTitle=
+TimeBasedXAxis=0
+XBottomAxisTitle=Percent of transactions
+XTopAxisTitle=
+DisplayAsStairs=0
+RawDataDimension=Transaction Response Time
+Scaling=0
+ZeroValue=0
+CompleteValFromLast=0
+Stacked=0
+BreakdownTree=0
+TransactionBreakdownGraph=0
+
+[Percentile]
+ValueField=!([Value]-[Think Time])!
+ResultSetColumnName=Response Time
+DivideInQuery=Divide
+CountField=Acount
+
+[BasicFilter0]
+DimensionType=Discrete
+InternalDimName=
+Dimension=Event Type
+EqualFlag=1
+DimensionTableName=Event_Map
+NumValues=1
+UseEscapeSequence=1
+DimCount=1
+Dim_0=Transaction
+LikeMode=0
+
+[AdditionalFilter0]
+DimensionType=Discrete
+InternalDimName=Transaction End Status
+Dimension=Transaction End Status
+EqualFlag=1
+DimensionTableName=TransactionEndStatus
+NumValues=1
+UseEscapeSequence=1
+DimCount=1
+Dim_0=Pass
+LikeMode=0
+
+[DimensionFunctions]
+DimeFuncCount=1
+DimeFuncType0=FuncFragment
+FunctionName_UI0=Think Time
+DimensionName_UI0=Transaction Response Time,Aminimum,Amaximum
+FunctionFragmentValues_UI0=-Include Think Time
+DimensionFragmentValues_UI0=
+
+[Alerts]
+Number Of Alerts=0
 
 [SmartCorrData]
 SmartCorrBool=0
 
 [Legend]
-NumColumns=9
+NumColumns=8
 Column0Name=Color
 Column0Type=Color
 Column0Width=38
-Column1Name=Graph
-Column1Type=Graph Name
-Column1Width=80
-Column2Name=Scale
-Column2Type=Scale
-Column2Width=80
-Column3Name=Measurement
-Column3Type=Measurement
-Column3Width=242
-Column4Name=Graph's Minimum
-Column4Type=Min
-Column4Width=80
-Column5Name=Graph's Average
-Column5Type=Avg
-Column5Width=80
-Column6Name=Graph's Maximum
-Column6Type=Max
-Column6Width=80
-Column7Name=Graph's Median
-Column7Type=Med
-Column7Width=80
-Column8Name=Graph's Std. Deviation
-Column8Type=Std
-Column8Width=80
+Column1Name=Scale
+Column1Type=Scale
+Column1Width=40
+Column2Name=Measurement
+Column2Type=Measurement
+Column2Width=242
+Column3Name=Graph Minimum
+Column3Type=Min
+Column3Width=120
+Column4Name=Graph Average
+Column4Type=Avg
+Column4Width=120
+Column5Name=Graph Maximum
+Column5Type=Max
+Column5Width=120
+Column6Name=Graph Median
+Column6Type=Med
+Column6Width=120
+Column7Name=Graph Std. Deviation
+Column7Type=Std
+Column7Width=120
 
 [ChartDisplayOptions]
 DisplayType=Line
@@ -77,7 +153,6 @@ Values=Avg
 IsMsr=0
 AbsoluteTime=0
 BDMsrShow=0
-SDisplayTypes=Line,Line
 LastDisplayType0=None
 LastValues0=Avg
 LastIsMsr0=0
